@@ -1,6 +1,9 @@
-a=5
-b=3
-print(a)
-print(a+b)
-print(a+b+20)
-print(id(a))
+print("1.안녕하세요")
+print('2.안녕하세요')
+print('%s' %('3.안녕하세요'))
+print('%d' %(50))
+
+
+
+
+

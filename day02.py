@@ -1,0 +1,16 @@
+print('\t#### 회비 내역 ####\t')
+print('=======================================')
+print("이름\t""나이\t""전화번호\t""회비\n")
+print("김예쁜\t""25\t""010-8888-9999\t""20,000\n")
+print("김잘남\t""25\t""010-8338-1111\t""50,000\n")
+print("이이상\t""35\t""010-7777-9999\t""30,000\n")
+print('=======================================')
+print("\t\t총합계\t100,000")
+#print('''Life is too short, You need python''')
+food='\"Life\" is too short, You need python'
+print(food)
+print('food')
+print("\n")
+print("\n")
+a="Life is too short, You need Python"
+print(a[:3])

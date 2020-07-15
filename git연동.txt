@@ -1,0 +1,34 @@
+def add(a,b);
+	return a+b
+
+print(add(10,20))
+
+w - save
+
+:! python test.py
+
+
+
+
+git remote add origin https://github.com/siyoung112/Python.git
+git push -u origin master
+
+
+
+git config --global-user name
+--global name.email
+
+
+  git config --global user.email "siyoung112@naver.com"
+  git config --global user.name "siyoung112"
+
+
+
+
+git add .
+git commit -m "Messages"
+git push origin master
+
+
+workbench.action.forcus.active
+workbench.action.forcusActiveEditorGroup
